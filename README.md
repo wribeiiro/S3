@@ -58,9 +58,3 @@ Vão ser gerado 2 arquivos doublefindUris e findUris
 
 O **findUris** é a lista real de buckets encontrados, o **doubleFindUris** é uma lista de possíveis sites que podem ter retornado com falso positivo (algumas vezes as proxy de má qualidade retornam falsos positivos)
 
-
-## Contato
-
-Meu e-mail pra contato é email@brunodasilva.com, atualmente trabalho com consultoria e sou pesquisador da área de segurança da informação.
-
-Obrigado
