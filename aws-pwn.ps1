@@ -12,9 +12,9 @@ ________  ___       __   ________                 ________  ___       __   _____
 "@
 Write-Host $multiplelines -foregroundcolor white	
  write-host "=============================================================================================" -foregroundcolor cyan				
-write-host "                             Aws-Pwn s3 checker by Subsolo"
+write-host "                             Aws-Pwn s3 Ataide - Junior = = = jvz107"
 write-host " --------------------------------------------------------------------------------------------" -foregroundcolor cyan	
-write-host "                                                     Contact:https://www.facebook.com/5ub50l0 " -foregroundcolor white                                                              
+write-host "                                                     " -foregroundcolor white                                                              
 #m==========================================menu 
 
 $menu = @"
