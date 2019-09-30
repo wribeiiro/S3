@@ -58,3 +58,11 @@ Vão ser gerado 2 arquivos doublefindUris e findUris
 
 O **findUris** é a lista real de buckets encontrados, o **doubleFindUris** é uma lista de possíveis sites que podem ter retornado com falso positivo (algumas vezes as proxy de má qualidade retornam falsos positivos)
 
+
+O aws.ps1 precisa instalar o aws-cli e python.
+
+Depois de instalados, pode rodar no powershell.
+a 3 opção voce coloca o dominio sem .com.br .com EX:buscape.
+que ele ira fazer o bruteforce nos s3, podendo ser indexado mais palavras no arquivo de texto.
+
+
