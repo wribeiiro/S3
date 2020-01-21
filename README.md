@@ -66,3 +66,5 @@ a 3 opção voce coloca o dominio sem .com.br .com EX:buscape.
 que ele ira fazer o bruteforce nos s3, podendo ser indexado mais palavras no arquivo de texto.
 
 
+Bruno e Subsolo 
+
